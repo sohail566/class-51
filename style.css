@@ -1,0 +1,45 @@
+h1{
+    
+    color:black;
+    
+  }
+  /*{
+    border:solid;
+  }*/
+  .header{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-between;
+  }
+  h2{
+    color:white;
+    background-color: blueviolet;
+  }
+  .menu{
+    display: flex;  
+    font-size : 20px;
+    flex-direction: row;
+    font-weight: 200;
+   
+   justify-content: space-evenly; 
+  }
+.grid{
+background-color: silver;
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+}
+.footer{
+display: flex;
+justify-content: flex-end;
+}
+body{
+background-color: #ffffff
+}
+a:link{
+color:chocolate
+}
+a:visited{
+color:darkcyan
+}
